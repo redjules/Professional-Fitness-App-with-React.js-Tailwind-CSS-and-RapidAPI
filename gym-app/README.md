@@ -1,5 +1,10 @@
 # Final app
 
+<img width="1393" alt="Screenshot 2024-09-29 at 22 36 04" src="https://github.com/user-attachments/assets/d918e8f2-52a4-49dc-8eca-fe99afa9a1f1">
+
+<img width="737" alt="Screenshot 2024-09-29 at 22 36 46" src="https://github.com/user-attachments/assets/c9fe3c82-df34-450c-ab49-691a49f82656">
+
+
 # Deployed app
 
 https://gym-app-ana-pedra-tech.netlify.app/
