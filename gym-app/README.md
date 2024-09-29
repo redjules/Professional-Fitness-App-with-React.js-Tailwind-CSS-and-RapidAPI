@@ -2,10 +2,6 @@
 
 <img width="1440" alt="Screenshot 2024-09-29 at 22 37 32" src="https://github.com/user-attachments/assets/9b1465cb-e4d4-4b77-8e78-1956fb5398de">
 
-
-<img width="737" alt="Screenshot 2024-09-29 at 22 36 46" src="https://github.com/user-attachments/assets/c9fe3c82-df34-450c-ab49-691a49f82656">
-
-
 # Deployed app
 
 https://gym-app-ana-pedra-tech.netlify.app/
